@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Huawei Scholarship, USTC, 2024.
+- Silver Award for Outstanding Student Scholarship, USTC, 2023. 
+- Second Prize in the Anhui Province Mechanics Competition, 2023.
+- Third Prize in the "Robogame" Robot Competition, USTC, 2023.
