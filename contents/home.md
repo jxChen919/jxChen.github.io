@@ -1,4 +1,4 @@
-[![jxChen919](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/jxChen919)
+[![jxChen919](https://img.shields.io/badge/JxChen-github-blue?logo=github)](https://github.com/jxChen919)
 
 I'm currently pursuing a Bachelor's degree in  at the Department of Mechanics, University of Science and Technology of China.
 
