@@ -1,4 +1,5 @@
 - Huawei Scholarship, USTC, 2024.
 - Silver Award for Outstanding Student Scholarship, USTC, 2023. 
-- Second Prize in the Anhui Province Mechanics Competition, 2023.
+- Endeavour Scholarship, USTC, 2023.
+- Second Prize in the Anhui Province Mechanics Competition, 2024.
 - Third Prize in the "Robogame" Robot Competition, USTC, 2023.
