@@ -8,7 +8,7 @@ I'm currently pursuing a Bachelor's degree in  at the Department of Mechanics, U
 
 #### Education  
 **University of Science and Technology of China**, Honours Bachelor of Science (2022/09 – 2026/06)  
-• GPA: 3.86/4.30 (top 5%)  
+• GPA: 3.86/4.30 (89.49/100 Ranking 5/63)  
 
 #### Research Interests  
 soild mechanics, metamaterials, computational mechanics, material design, AI for science.
