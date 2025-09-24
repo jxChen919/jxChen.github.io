@@ -1,1 +1,1 @@
-- 
+- [1] **J. Chen**, Z. Wang, K. Wu, Z. Song, Y. Ni*. _Optimization design of fracture-resistant lattice metamaterials powered by biological structures and artificial intelligence._ 2025, To be submitted
