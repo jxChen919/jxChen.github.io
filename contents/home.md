@@ -11,4 +11,4 @@ I'm currently pursuing a Bachelor's degree in  at the Department of Mechanics, U
 • GPA: 3.86/4.30 (89.49/100 Ranking 5/63)  
 
 #### Research Interests  
-soild mechanics, metamaterials, computational mechanics, material design, AI for science.
+Soild Mechanics, Metamaterials, Computational Mechanics, Materials Design, AI for Science.
